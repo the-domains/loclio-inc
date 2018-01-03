@@ -1,0 +1,32 @@
+typography_spectrum: 0.47410532482899725
+color:
+  brandStrength: 0.9939742190763354
+  lightness: 0.4596131818834692
+  saturation: 0.04149798583239317
+  rhythmicContrast: 0.16676526051014662
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.5121166224125773
+name: Loclio Inc.
+title: Evolving Technology
+content: []
+description: Technology for fun and profit
+purpose:
+  - type: contact
+    url: 'tel:845.694.7387'
+    label: Call 845.694.7387
+  - type: internal
+    label: Get in touch
+    item: 6a981363-fda5-402b-a36f-4723dbfc3b9e
+author:
+  name: Boris Smirnov
+  email: info@loclio.com
+  url: 'http://loclioinc.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0717b68b-a42b-4023-bc91-330c1fa47343.png
+github: true
+url: 'https://loclioinc.com'
